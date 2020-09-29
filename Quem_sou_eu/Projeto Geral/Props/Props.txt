@@ -1,0 +1,1 @@
+Pasta pada adicionar props, separada em cenários
