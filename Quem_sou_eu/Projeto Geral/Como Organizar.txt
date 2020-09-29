@@ -1,0 +1,40 @@
+Cenários:
+Pasta com os arquivos de cenários já modelados
+porém ainda sem setup.
+
+Cenas:
+Pasta com os Setups, cenários e props, já
+devidamente modelados, texturizados e iluminados aguardando
+animação e render.
+
+Props:
+Pasta com todos os props já produzidos ou
+finalizados, dividida em cenários.
+
+Personagens:
+Nesta pasta são adicionados todos os personagens produzidos.
+
+
+Como adicionar um arquivo?
+Para melhor organização recomendo que, quando
+o arquivo possuir textura externa, unir tudo em uma pasta
+(tanto o arquivo blend quanto texturas), compactar e nomear.
+Quando não houver textura externa apenas nexar arquivo.
+
+Existe outro tipo de formato possível?
+Caso não se sentirem seguros em exportar .blend acredito que
+.fbx também seja útil caso usem blender em outra versão;
+Mas isso apenas em casos especiais.
+
+Como nomear?
+Para melhor nomeação segue exemplo:
+(Prefixo_ItemCenario)
+
+"Gab_EstanteQuarto.zip"
+
+Uso de prefixos que indicam alunos:
+Apa - Aparecida
+Diu - Diulia
+Gab - Gabriel
+Gui - Guilherme
+Mat - Matheus S.

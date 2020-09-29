@@ -1,0 +1,4 @@
+A pasta é para que sejam adicionados os props de grande importancia
+em cenários especificos, dentre eles estão:
+
+Ponte, fonte, extras caso necessário.

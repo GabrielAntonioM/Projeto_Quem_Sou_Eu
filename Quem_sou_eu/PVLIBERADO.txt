@@ -1,0 +1,10 @@
+Pasta relacionada ao projeto "QUEM SOU EU?"
+Desenvolvido pelos alunos do 2º ano em Computação Gráfica:
+
+Aparecida
+Diulia
+Gabriel
+Guilherme
+Matheus S.
+
+Pensada para armazenamento geral dos arquivos que compõem o mesmo.
